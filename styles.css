@@ -440,4 +440,24 @@ footer {
     .video-section video {
         width: 100%;
     }
+
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+.amapiano-section {
+    padding: 20px;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+.highlight-text {
+    background-color: yellow;
+}
+
+.strike-text {
+    text-decoration: line-through;
 }
