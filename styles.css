@@ -510,3 +510,22 @@ pre {
     overflow-x: auto;
 }
 
+/* TWO COLUMN SECTION */
+
+.two-columns{
+display:flex;
+gap:40px;
+padding:100px 8%;
+align-items:center;
+}
+
+.column{
+flex:1;
+}
+
+.column img{
+width:100%;
+border-radius:10px;
+}
+
+
